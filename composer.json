@@ -2,7 +2,8 @@
     "name": "863416870/ympush",
     "description": "php-umeng-app message pack",
     "require": {
-        "php": ">=5.6"
+        "php": ">=5.6",
+        "863416870/ympush": "dev-master"
     },
     "license": "MIT",
     "authors": [
