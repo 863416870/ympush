@@ -1,6 +1,6 @@
 {
     "name": "863416870/ympush",
-    "description": "ceshi",
+    "description": "php-umeng-app message pack",
     "require": {
         "php": ">=5.6"
     },
@@ -11,7 +11,7 @@
             "email": "fanguojie@sxjicheng.com"
         }
     ],
-    
+
     "minimum-stability": "stable",
       "autoload": {
         "psr-4": {
