@@ -11,6 +11,8 @@
             "email": "fanguojie@sxjicheng.com"
         }
     ],
+    
+    "minimum-stability": "stable",
       "autoload": {
         "psr-4": {
             "Ympush\\": "src/"
