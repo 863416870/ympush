@@ -1,0 +1,19 @@
+{
+    "name": "863416870/ympush",
+    "description": "ceshi",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fanguojie",
+            "email": "fanguojie@sxjicheng.com"
+        }
+    ],
+      "autoload": {
+        "psr-4": {
+            "Ympush\\": "src/"
+        }
+    }
+}
